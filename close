@@ -1,0 +1,22 @@
+[33mcommit ac76fc1704c721d4e97ab21108e0a452929f12d6[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: Andrés Marín <amarin@eximus.com.co>
+Date:   Thu Jan 18 12:22:47 2024 +0100
+
+    Agregamos el Cargo de la Persona.
+    
+    La Persona es Andrés.
+
+[1mdiff --git a/historia.txt b/historia.txt[m
+[1mindex 29acf51..5869052 100644[m
+[1m--- a/historia.txt[m
+[1m+++ b/historia.txt[m
+[36m@@ -7,4 +7,6 @@[m [mVivo en España.[m
+ [m
+ Eximus 2024 01 18[m
+ [m
+[31m-Eximus nacé en el año 2017.[m
+\ No newline at end of file[m
+[32m+[m[32mEximus nacé en el año 2017.[m
+[32m+[m
+[32m+[m[32mHoy es el CEO de EXIMUS SAS[m
+\ No newline at end of file[m
