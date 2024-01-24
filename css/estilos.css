@@ -2,5 +2,11 @@ body
 {
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
-    color: aquamarine;
+    color: black;
+}
+h2
+{
+    text-shadow: 1ch;
+    text-decoration-line: underline;
+    text-align: left;    
 }
