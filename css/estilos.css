@@ -10,3 +10,10 @@ h2
     text-decoration-line: underline;
     text-align: left;    
 }
+p
+{
+    text-align: left;
+    text-justify: auto;
+    color: blue;
+
+}
