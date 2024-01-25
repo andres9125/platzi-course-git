@@ -10,10 +10,26 @@ h2
     text-decoration-line: underline;
     text-align: left;    
 }
+#container
+{
+    width: 70%;
+    padding: 1em;
+    text-align: left;
+    border: 1px solid #ddd;
+    margin: 0 auto;
+}
+#container h1
+{
+    font-size: 20px;
+}
+#container h2
+{
+    font-size: 18px;
+}
 p
 {
     text-align: left;
     text-justify: auto;
-    color: blue;
+    color: black;
 
 }
